@@ -15,7 +15,7 @@ int main() {
         // aqui pahs colunas
         for (int x = 0; x < tamanho; ++x) {
             
-            cout << setw(4) << numero++;
+            cout << setw(4) << numero++; // o numero que for exibido  nesse caso com 4 caracteres
         }
 
         cout << endl;
