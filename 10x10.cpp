@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomanip>
+#include <iomanip> //manipular a formatacao do cout ou seja tudo q for saida de dados, útil para controlar a aparência de números, texto
 
 using namespace std;
 
